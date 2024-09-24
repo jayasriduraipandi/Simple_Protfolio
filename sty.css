@@ -1,0 +1,195 @@
+body{
+  font-family: Arial, sans-serif;
+  background-color: #bfbbbb;
+  color: #333;
+  margin: 0;
+  padding: 0;
+
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 2%;
+    margin-left: 60%;
+  }
+  
+  li {
+    display: inline;
+  }
+  a{
+    text-decoration: none;
+    padding: 30px;
+    font-size: larger;
+    color: white;
+  }
+
+  .button {
+    background-color: white;
+    border-radius: 50px;
+    color: black;
+    padding: 10px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size:larger;
+  }
+  a:hover{
+    
+  }
+.size{
+  display: flex;
+    right: 10px;
+    float: right;
+    width:  300px;
+    height: 300px;
+    margin-top:-50px;
+    margin-right:1em;
+}
+p{
+  margin-top: 5%;
+}
+.social-icons a {
+  color: black;
+  font-size: 25px; 
+  margin: 10 5px;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #0077b5; 
+ }
+.icon{
+  font-size: 25px;
+  color:black;
+  margin-left:16em;
+  margin-top:-15px;
+  padding:0px;
+}
+footer{
+  background-color:rgb(33, 33, 33);
+  color:white;
+  top: 50px;
+  justify-content: center;
+  height: 50%;
+  background-size: 100%;
+}
+.navbar a:hover{
+  color:blue;
+}
+.border{
+  border-style:solid;
+  border-style: inline;
+  inline-size: 200px;
+}
+.about{
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: larger;
+  border-style: solid;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-me {
+  padding: 50px 0;
+  border-style: solid;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.intro-text {
+  font-size: 1em;
+  margin-bottom: 30px;
+  color: #313131;
+}
+
+.explore a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #0c0b0b;
+  text-decoration: none;
+  color: #080505;
+  margin-bottom: 50px;
+}
+.sections {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section {
+  width: 30%;
+  text-align: left;
+}
+
+.section h2 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.section p {
+  font-size: 0.9em;
+  color: #232222;
+}
+
+.skills {
+  padding: 30px 0;
+  border-top: 1px solid #e2e2e2;
+  border-bottom: 1px solid #e2e2e2;
+}
+.skills a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid #0b0b0b;
+  text-decoration: none;
+  color: #090909;
+  font-size: 1.2em;
+}
+.using{
+  width: 700px;
+  height: 400px;
+  margin-left: 20%;
+}
+.us{
+  margin-left:20% ;
+}
+.learning{
+margin-left: 20%;
+}
+.section1{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 250px;
+  margin-right: 200px;
+}
+.sec{
+  width: 50%;
+  height: 20%;
+  margin-bottom: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 50px;
+}
+.name{
+  text-align: center;
+  padding: 15px 10px;
+  width: 10%;
+  font-size: larger;
+}
+.contact{
+  border-style: solid;
+  inline-size: 200px;
+  padding: 5px;
+  border-width: 5px;
+}
+.details{
+  justify-content: space-between;
+}
